@@ -1,2 +1,1 @@
-def greet_user():
-    print("hi")
+ValueError
